@@ -1,0 +1,51 @@
+{
+    "profiles":[
+        {
+            "basicInformation": {
+                "name" : "Srinivasa Reddy",
+                "role" : "Technical skill Trainer",
+                "email" : "nivas0803@gmail.com",
+                "mobile": "+91 8466865901"
+            },
+            "skillset":[
+            	{
+            		"pro":" Program Languages --> python, java, C, php ",
+            		"fram":"Framworks --> django flask reactjs javascript",
+            		"os":"Operating Systems --> Linux Windows iOS",
+            		"web":"Web Technologies --> HTML5 CSS3 Bootstrap4"
+            	}
+            ],
+            "summary":[
+            	{
+            		"exp":"Having 4+ years of experience in training students in engineering colleges throughout Andhra Pradesh on various technologies Trained approximately 5000 students so far in short term & long term training programs Good in technical mentoring, code reviews to deliver quality output Involved in knowledge sharing and knowledge transfer to the new members of the team & Preparation of knowledge transfer documents Participated in trainings offered in order to increase technical skills, Got consistent & good feedback from every training program."
+            	}
+            ],
+
+            "certifications":[
+				{
+					"python":"Python for Everybody",
+					"univercity":"Michigan univercity"
+				},
+				{
+					"python":"FullStack Certification",
+					"univercity":"Udacity"
+				}
+			],
+            "education":[
+                {
+                    "degree":"B-Tech (ECE)",
+                    "institution": "St Ann's College of Engineering"
+                },
+                {
+                    "degree":"Diploma(ECE)",
+                    "institution":"Bapatla Engineering College"
+                },
+                {
+                    "degree":"SSC",
+                    "institution": "Z P High School"
+                }
+            ]
+        }
+        
+    ]
+}
